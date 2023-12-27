@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34227.203
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostFocus", "LostFocus\LostFocus.csproj", "{F7FAD865-1811-43BF-A8B9-23346898D6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FAD865-1811-43BF-A8B9-23346898D6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FAD865-1811-43BF-A8B9-23346898D6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FAD865-1811-43BF-A8B9-23346898D6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FAD865-1811-43BF-A8B9-23346898D6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6714EC-351E-488B-BFDC-361795EBED26}
+	EndGlobalSection
+EndGlobal
