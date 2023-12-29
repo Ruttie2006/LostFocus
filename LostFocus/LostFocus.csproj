@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
 	<LangVersion>latest</LangVersion>
 	<Authors>Ruttie</Authors>
+	<AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>

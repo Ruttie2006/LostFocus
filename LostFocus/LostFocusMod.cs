@@ -7,7 +7,7 @@ namespace LostFocus
     {
         GameObject? go;
         public LostFocusMod() : base("LostFocus") { }
-        public override string GetVersion() => "v0.1";
+        public override string GetVersion() => "1.0";
         public override void Initialize()
         {
             if (go == null)
